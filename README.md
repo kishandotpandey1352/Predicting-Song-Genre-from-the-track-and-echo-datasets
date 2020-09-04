@@ -1,3 +1,5 @@
+# Kaggle mini case studies #
+
 # Predicting-Song-Genre-from-the-track-and-echo-datasets
 #### I have 2 datasets track and echo, to classify the genre of songs
 #### I have tried to clean the datasets, Combine them on few columns
